@@ -1,0 +1,17 @@
+local
+美: [ˈloʊk(ə)l]
+英: [ˈləʊk(ə)l]
+n.	当地人；本地人；住处附近的酒吧；（工会的）地方分会
+adj.	地方的；当地的；本地的；（身体）局部的
+
+instance
+美: [ˈɪnstəns]
+英: ['ɪnstəns]
+n.	实例；例子；事例
+v.	举…为例
+网络	例证；实体；个体
+
+INSERT
+SELECT
+CREATE
+DELETE
